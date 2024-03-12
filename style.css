@@ -1,8 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 body {
+ box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-image: url('pattern-background-desktop.svg');	
   background-color: #dfe8ff;
 }
+
 
 .attribution { 
 font-size: 11px; text-align: center; 
@@ -26,4 +31,5 @@ font-size: 11px; text-align: center;
 	font-family: Outfit;
     font-size: 15px;
 	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+	
 }
