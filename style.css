@@ -20,7 +20,7 @@ font-size: 11px; text-align: center;
   border-radius: 25px;
   background: white;
   padding: 20px; 
-  width: 400px;
+  width: 480px;
   height: 740px;  
   font-family: futura bold;
   text-align: center;
@@ -36,7 +36,7 @@ font-size: 11px; text-align: center;
 .dancer
 {
 	object-fit: cover;
-	width: 100%;
+
 	border-radius: 20px 20px 0px 0px; 
-	margin-bottom: 25px;
+
 }
