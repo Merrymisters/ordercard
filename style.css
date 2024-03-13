@@ -1,31 +1,16 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 body {
- display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  padding: 1rem;
-
-  background-color: #dfe8ff;
+  background-color: #d5e1ef;
 }
-
-.container {
-  background-color: hsl(0, 0%, 100%);
-  border-radius: 0.938rem;
-  overflow: hidden;
-  max-width: 26rem;
-}
-
 
 
 .rcorners {
   border-radius: 25px;
   background: white;
   padding: 20px; 
-  width: 480px;
-  height: 740px;  
+  width: 330px;
+  height: 540px;  
   font-family: futura bold;
   text-align: center;
    margin-top: 10%;
@@ -35,12 +20,18 @@ body {
 	font-family: Outfit;
     font-size: 15px;
 	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-	
 }
-.dancer
-{
-	
+h2{
+	font-weight: 800;
+	font-size: 27px;
+	margin-bottom: 16px;
+	font-size: 25px;
+	margin-bottom: 16px;
+}
 
-	border-radius: 20px 20px 0px 0px; 
-
+h4 {
+	 font-size: 19px;
+	 color: #767880;
+    text-align: center;
+	font-weight: 350;
 }
