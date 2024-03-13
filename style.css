@@ -13,12 +13,6 @@ body {
   min-height: 100vh;
 
 }
-.container {
-  background-color: hsl(0, 0%, 100%);
-  border-radius: 0.938rem;
-  overflow: hidden;
-  max-width: 26rem;
-}
 
 img {
   width: 100%;
