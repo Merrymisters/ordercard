@@ -45,7 +45,7 @@ img {
 }
 
 .news{
-	text-align:center;
+	font-weight: 20;
 	line-height: 1.8;
   padding: 5px 120px 5px;
   color:#767b89;
@@ -74,7 +74,7 @@ img {
 }
 
 .first{
-	font weight:700;
+	font-weight:700;
 }
 
 .price {
@@ -83,7 +83,7 @@ img {
 
 .bold {
 	display: flex;
-	align-self: center;
+	align-self: end;
 	color: #4237c0;
 	cursor: pointer;
 }
