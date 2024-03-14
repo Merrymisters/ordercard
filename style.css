@@ -57,6 +57,13 @@ img {
 	padding: 1 rem 0;
 }
 
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
 .annual {
 	margin-left: 1rem;
 	display: flex;
