@@ -75,7 +75,7 @@ img {
 
 .first{
 	
-	font-weight:700;
+	font-weight:500;
 }
 
 .price {
@@ -85,7 +85,7 @@ img {
 .bold {
 	display: flex;
 	align-self: center;
-	margin-left: 70%;
+	margin-left: 50%;
 	color: #4237c0;
 	cursor: pointer;
 }
