@@ -61,7 +61,7 @@ img {
 }
 
 .container {
-	display: flex;
+	display: inline-flex;
 	align-items: center;
 	justify-content: center;
 }
@@ -85,7 +85,6 @@ img {
 .bold {
 	display: flex;
 	align-self: center;
-	padding-left: 30%;
 	color: #4237c0;
 	cursor: pointer;
 }
