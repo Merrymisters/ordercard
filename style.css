@@ -40,14 +40,14 @@ img {
 .order{
 	text-align: center;
 	font-weight: 700;
-	color: 303863;
+	color: #303863;
 	padding-top: 15px;
 }
 
 .news{
 	text-align:center;
 	line-height: 1.8;
-  padding: 5px 90px 5px;
+  padding: 5px 120px 5px;
 }
 .upsell {
 	background-color: f7f9ff;
@@ -73,11 +73,11 @@ img {
 .bold {
 	display: flex;
 	align-self: center;
-	color: 4237c0;
+	color: #4237c0;
 	cursor: pointer;
 }
 
 .bold:hover {
-	color: 7C70E1;
+	color: #7C70E1;
 	transition: 0.3s;
 }
