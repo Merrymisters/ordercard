@@ -54,10 +54,10 @@ img {
 	background-color: #f7f9ff;
 	display: flex;
 	justify-content: space-around;
-	padding: 1 rem 0;
+	padding: 10px;
 	 margin-left: 10%;
     margin-right: 10%;
-	border-radius: 25px;
+	border-radius: 15px;
 }
 
 .container {
