@@ -79,13 +79,12 @@ img {
 }
 
 .price {
-	margin-top: 3%;
+	margin-top: 10%;
 }
 
 .bold {
 	display: flex;
-	align-self: center;
-	margin-left: 50%;
+	
 	color: #4237c0;
 	cursor: pointer;
 }
