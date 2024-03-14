@@ -55,6 +55,8 @@ img {
 	display: flex;
 	justify-content: space-around;
 	padding: 1 rem 0;
+	 margin-left: 40%;
+    margin-right: 40%;
 }
 
 .container {
