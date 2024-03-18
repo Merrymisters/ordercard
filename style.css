@@ -113,8 +113,8 @@ button {
 	
 	padding: 1rem;
 	cursor: pointer;
-	font-size: 0.938rem;
-	border-radius: 15px;
+	font-size: 10px;
+	border-radius: 1rem;
 }
 
 button:hover {
@@ -125,7 +125,7 @@ button:hover {
 .cancle{ 
 	text-decoration: none;
 	font-size: 10 px;
-	margin-top: 5%;
+	margin-top: 8%;
 }
 
 .cancle:hover{
