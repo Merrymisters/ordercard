@@ -123,9 +123,9 @@ button:hover {
 }
 
 .cancle{ 
-	text-decoration: none;
+	font-weight: bold;
 	font-size: 10 px;
-	margin-top: 12%;
+	margin-top: 17%;
 }
 
 .cancle:hover{
