@@ -13,12 +13,20 @@ body {
   min-height: 100vh;
 
 }
+.hero {
+  width: 28.125rem ;
+  background-color: white;
+  color: var(--desaturated-blue);
+  border-radius: 1.25rem;
+  overflow: hidden;
+  margin: 3.125rem auto;
 
-img {
+}
+/*img {
   width: 100%;
   object-fit: cover;
   border-radius: 20px 20px 0px 0px;
-}
+}*/
 
 .rcorners {
   border-radius: 25px;
