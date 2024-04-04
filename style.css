@@ -5,7 +5,7 @@ body {
   font-family: "Red Hat Display", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
-
+  font-size: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -26,8 +26,7 @@ img {
 
   width: 530px;
   height: 760px;  
-  font-family: futura bold;
-  text-align: center;
+
    margin-top: 10%;
     margin-bottom: 10%;
     margin-left: 40%;
